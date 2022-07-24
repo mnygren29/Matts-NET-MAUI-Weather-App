@@ -1,0 +1,1 @@
+This is a .NET MAUI Xamarin Cross Platform APP for Android and iOS using XAML which features search capabilities by city or current location to obtain current weather conditions with a nice layout and icons related to weather conditions.
